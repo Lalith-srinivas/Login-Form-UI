@@ -9,7 +9,7 @@ This is a responsive and animated login form built using HTML, CSS, and JavaScri
 - Responsive layout
 
 ## 🚀 How to Use
-1. Clone the repo:git clone https://lalith-srinivas.github.io/Login-Form-UI/.git
+1. Clone the repo:git clone https://lalith-srinivas.github.io/Login-Form-UI/
 2. Open `index.html` in your browser.
 
 ## 💡 What I Learned
